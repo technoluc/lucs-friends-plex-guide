@@ -65,7 +65,7 @@ Speedtest -
 #### Media Count
 Movies - **497**
 
-TV Shows - **45** (*2089 episodes*)
+TV Shows - **46** (*2089 episodes*)
 
 Sample of 4K movies -
 
