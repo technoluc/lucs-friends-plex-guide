@@ -2,6 +2,15 @@
 
 Get ready to enjoy some free media - 🏴‍☠️ - browse my library - or request the content you want!
 
+Important links -
+
+- **Plex Signup** - [https://www.plex.tv/en-gb/sign-up/](https://www.plex.tv/en-gb/sign-up/)
+- **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
+- **Overseerr** - [https://crozuk.capella.usbx.me/overseerr](https://crozuk.capella.usbx.me/overseerr)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/5352226/147898726-ff0fe2f8-69fb-4b14-9c9c-f84fa8a5f63b.png)
 
 ### Getting Started
@@ -10,9 +19,9 @@ With over 450+ films and 40+ television shows - my Plex server is always kept up
 
 All you need is to register for a [Plex](https://www.plex.tv/en-gb/sign-up/) account - and once complete - let me know the registered email address so I can send you an invite.
 
-Once you've let me know your Plex email address - you'll receive an email invite allowing you access to my TV and Movie collection.
+Once you've let me know your Plex email address - you'll receive an email invite allowing you access to my TV and Movie collection. **You must follow the invite link in the email to gain access to the shared media libraries**.
 
-On-going TV shows are automatically downloaded on release - and new movies as and when they are released so you can sit back and enjoy.
+On-going TV shows are automatically downloaded on release - and new movies are added as and when they become available - so you can sit back and enjoy.
 
 ### Watching Plex
 
@@ -20,7 +29,12 @@ You can watch media via a Plex player pretty much anywhere you have an internet 
 
 ![image](https://user-images.githubusercontent.com/5352226/147898871-8539cb51-abd2-4b78-9c7e-b4cf4299337f.png)
 
+All movies and TV come with English subtitles where possible -
+
+![image](https://user-images.githubusercontent.com/5352226/147903261-6d72d1fd-449e-4baf-8773-10c8741abe30.png)
+
 Plex has support for a wide range of platforms - from laptops, desktops, and phones to smart TVs and media streaming devices. You can see the full list of compatible player devices [here](https://www.plex.tv/en-gb/apps-devices/). Typically it's a case of downloading the Plex app from the relevant 'app store' and logging in using your account.
+
 
 ![image](https://user-images.githubusercontent.com/5352226/147898931-18ce19c3-8ff0-488b-bade-d2b2c9a769d6.png)
 
