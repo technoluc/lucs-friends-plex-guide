@@ -54,6 +54,24 @@ Overseerr also provides a way to view content already held on the media server -
 
 This allows you to inform me of any problem with the video files - and fix/update accordingly.
 
+### Server Info
+
+03/01/2021
+
+Speedtest -
+
+![image](https://user-images.githubusercontent.com/5352226/147900566-024ac5d6-dfef-4c65-a327-5f376002aa0b.png)
+
+#### Media Count
+Movies - **497**
+
+TV Shows - **45** (*2089 episodes*)
+
+Sample of 4K movies -
+
+![image](https://user-images.githubusercontent.com/5352226/147900670-79259680-ac6e-4906-b450-8f0501967d3a.png)
+
+
 ### Further Questions
 
-If you have any futher questions - please just get in touch.
+If you have any futher questions - please just get in touch. [richardcrosby.co.uk](https://richardcrosby.co.uk/)
