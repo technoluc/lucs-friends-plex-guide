@@ -8,8 +8,7 @@ Important links -
 - **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
 - **Overseerr** - [https://crozuk.capella.usbx.me/overseerr](https://crozuk.capella.usbx.me/overseerr)
 
-
-
+**Make sure you watch at the best quality possible - check the instructions below for more details.**
 
 ![image](https://user-images.githubusercontent.com/5352226/147898726-ff0fe2f8-69fb-4b14-9c9c-f84fa8a5f63b.png)
 
@@ -84,6 +83,18 @@ TV Shows - **46** (*2089 episodes*)
 Sample of 4K movies -
 
 ![image](https://user-images.githubusercontent.com/5352226/147900670-79259680-ac6e-4906-b450-8f0501967d3a.png)
+
+### Ensuring the best quality for playback 
+
+By default - the Plex player will limit the quality of videos streamed to 720p. The vast majority of content is available in 1080p or better - so be sure to update the relevant settings -
+
+#### On TV
+
+Go to the left hand menu > down to settings > video quality and change ‘internet streaming’ to ‘maximum’.
+
+#### In Browser
+
+Click the spanner icon at the top right to go to the settings page. From the left hand menu find the section titled 'Plex Web' and select 'Quality'. From here change the internet streaming video quality to 'maximum'. 
 
 ### Known Issues
 
