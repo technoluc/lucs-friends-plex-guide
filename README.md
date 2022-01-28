@@ -70,6 +70,8 @@ This allows you to inform me of any problem with the video files - and fix/updat
 
 ### Discord Server
 
+**Discord Server** - [Invite Link](https://discord.gg/ZdTgsmdqGD)
+
 For update to date information and notifications - you can join my Discord server to receive updates -
 
 <img width="1310" alt="image" src="https://user-images.githubusercontent.com/5352226/151474952-e1e686b7-54b1-40ad-b538-8dbd017328c7.png">
