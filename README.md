@@ -103,7 +103,15 @@ In sommige gevallen kan er een pop-up verschijnen waarin om een gebruikersnaam/w
 
 Als je nog verdere vragen hebt, neem dan gerust contact met me op.
 
-Luc
+Luc 
 
-Dank aan Richard voor deze tutorialpagina:
-Richard Crosby - [richardcrosby.co.uk](https://richardcrosby.co.uk/)
+Dank aan Richard Crosby voor deze tutorialpagina: [richardcrosby.co.uk](https://richardcrosby.co.uk/)
+
+## Overige projecten
+
+Personaliseer je Windows desktop prullenbak icoon met mijn [Recycle Bin Theme Tool](https://github.com/technoluc/recycle-bin-themes).
+
+Activeer Windows en/of Office met mijn [Office Utility](https://github.com/technoluc/officeutil)
+
+
+
