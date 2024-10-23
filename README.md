@@ -1,110 +1,109 @@
-## Welcome - You've been offered access to my Plex Media Server!
+## Welkom - Je hebt toegang gekregen tot mijn Plex Media Server!
 
-Get ready to enjoy some free media - 🏴‍☠️ - browse my library - or request the content you want!
+Maak je klaar om te genieten van gratis media - 🏴‍☠️ - blader door mijn bibliotheek of vraag de content aan die je wilt zien!
 
-Important links -
+Belangrijke links -
 
-- **Plex Signup** - [https://www.plex.tv/en-gb/sign-up/](https://www.plex.tv/en-gb/sign-up/)
-- **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
+- **Plex Aanmelden** - [https://www.plex.tv/en-gb/sign-up/](https://www.plex.tv/en-gb/sign-up/)
+- **Plex Web Speler** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
 - **Overseerr** - [https://lucflix.nl](https://lucflix.nl)
 
-**Make sure you watch at the best quality possible - check the instructions below for more details.**
+**Zorg ervoor dat je in de best mogelijke kwaliteit kijkt - bekijk de instructies hieronder voor meer details.**
 
-![image](https://user-images.githubusercontent.com/5352226/147898726-ff0fe2f8-69fb-4b14-9c9c-f84fa8a5f63b.png)
+![afbeelding](https://user-images.githubusercontent.com/5352226/147898726-ff0fe2f8-69fb-4b14-9c9c-f84fa8a5f63b.png)
 
-### Getting Started
+### Aan de slag
 
-With over 450+ films and 40+ television shows - my Plex server is always kept up to date with the most recent media releases which I can share with family and friends.
+Met meer dan 600+ films en 25+ tv-programma's - wordt mijn Plex-server altijd up-to-date gehouden met de meest recente media-uitgaven die ik kan delen met familie en vrienden.
 
-All you need is to register for a [Plex](https://www.plex.tv/en-gb/sign-up/) account - and once complete - let me know the registered email address so I can send you an invite.
+Alles wat je hoeft te doen is een [Plex](https://www.plex.tv/en-gb/sign-up/) account aanmaken - en zodra dat voltooid is, laat je mij het geregistreerde e-mailadres weten zodat ik je een uitnodiging kan sturen.
 
-Once you've let me know your Plex email address - you'll receive an email invite allowing you access to my TV and Movie collection. **You must follow the invite link in the email to gain access to the shared media libraries**.
+Zodra je mij je Plex-e-mailadres hebt laten weten, ontvang je een e-mailuitnodiging waarmee je toegang krijgt tot mijn tv- en filmcollectie. **Je moet de uitnodigingslink in de e-mail volgen om toegang te krijgen tot de gedeelde mediatheken.**
 
-On-going TV shows are automatically downloaded on release - and new movies are added as and when they become available - so you can sit back and enjoy.
+Lopende tv-programma's worden automatisch gedownload zodra ze beschikbaar zijn - en nieuwe films worden toegevoegd wanneer deze beschikbaar komen - zodat je achterover kunt leunen en genieten.
 
-### Watching Plex
+### Plex kijken
 
-You can watch media via a Plex player pretty much anywhere you have an internet connection. The Plex media server has a maximum upload speed of 50000 Mbps and can transcode 3/4 media streams simultaneously. The majority of the content is in HD (720p or 1080p) - with some movies available in UHD (4k).
+Je kunt media via een Plex-speler vrijwel overal bekijken waar je internetverbinding hebt. De Plex-mediaserver heeft een maximale uploadsnelheid van 50000 Mbps en kan 3/4 mediastreams tegelijkertijd transcoderen. Het merendeel van de content is in HD (720p of 1080p) - met enkele films beschikbaar in UHD (4k).
 
-![image](https://user-images.githubusercontent.com/5352226/147898871-8539cb51-abd2-4b78-9c7e-b4cf4299337f.png)
+![afbeelding](https://user-images.githubusercontent.com/5352226/147898871-8539cb51-abd2-4b78-9c7e-b4cf4299337f.png)
 
-All movies and TV come with Dutch and/or English subtitles where possible -
+Alle films en tv-programma's worden, waar mogelijk, geleverd met Nederlandse en/of Engelse ondertiteling.
 
-![image](https://user-images.githubusercontent.com/5352226/147903261-6d72d1fd-449e-4baf-8773-10c8741abe30.png)
+![afbeelding](https://user-images.githubusercontent.com/5352226/147903261-6d72d1fd-449e-4baf-8773-10c8741abe30.png)
 
-Plex has support for a wide range of platforms - from laptops, desktops, and phones to smart TVs and media streaming devices. You can see the full list of compatible player devices [here](https://www.plex.tv/en-gb/apps-devices/). Typically it's a case of downloading the Plex app from the relevant 'app store' and logging in using your account.
+Plex ondersteunt een breed scala aan platforms - van laptops, desktops en telefoons tot slimme tv's en mediastreamingapparaten. Je kunt de volledige lijst van compatibele afspeelapparaten [hier](https://www.plex.tv/en-gb/apps-devices/) bekijken. Meestal komt het erop neer dat je de Plex-app downloadt vanuit de betreffende 'app store' en inlogt met je account.
 
+![afbeelding](https://user-images.githubusercontent.com/5352226/147898931-18ce19c3-8ff0-488b-bade-d2b2c9a769d6.png)
 
-![image](https://user-images.githubusercontent.com/5352226/147898931-18ce19c3-8ff0-488b-bade-d2b2c9a769d6.png)
+### Content aanvragen
 
-### Requesting Content
+Hoewel ik zelf een grote fan ben van mijn tv/filmcollectie, kan het zijn dat er bepaalde films of tv-programma's ontbreken die jij graag zou willen zien. Ik heb [Overseerr](https://overseerr.dev/) geïmplementeerd, zodat iedereen met toegang tot mijn Plex-media server elke film of tv-programma kan aanvragen die hij/zij wil.
 
-Whilst I'm a big fan of my TV/Movie collection - you may find it's missing certain films or TV shows that you'd like to watch. I've implemented [Overseerr](https://overseerr.dev/) to allow anyone with access to my Plex media server to request any film or TV show they like.
+Bezoek [https://lucflix.nl](https://lucflix.nl) om toegang te krijgen tot Overseerr - waar je kunt inloggen met je Plex-account.
 
-To access Overseerr visit [https://lucflix.nl](https://lucflix.nl) - where you will be able to login using your Plex account.
+![afbeelding](https://user-images.githubusercontent.com/5352226/147899473-ff8c231a-6400-4c66-89c3-835a822febd5.png)
 
-![image](https://user-images.githubusercontent.com/5352226/147899473-ff8c231a-6400-4c66-89c3-835a822febd5.png)
+Overseerr stelt je in staat om te bladeren en te zoeken naar de content die je wilt toevoegen aan de mediaserver. Vind het item dat je wilt laten toevoegen en selecteer eenvoudig de knop 'Aanvragen' en selecteer de gewenste kwaliteit.
 
-Overseerr lets you browse and search for the content you want to see added to the media server. Find the item you want to be added and simply select the 'Request' button and select the desired quality -
+![afbeelding](https://user-images.githubusercontent.com/5352226/147899547-2cab703f-adf6-42f0-a4ae-3c88e515bb93.png)
 
-![image](https://user-images.githubusercontent.com/5352226/147899547-2cab703f-adf6-42f0-a4ae-3c88e515bb93.png)
+Je kunt er ook voor kiezen om alle of specifieke seizoenen van een tv-programma aan te vragen.
 
-You can also choose to request all - or specific series of a TV show -
+![afbeelding](https://user-images.githubusercontent.com/5352226/147899582-a56e6029-57e3-4458-b0db-d9b83a47028f.png)
 
-![image](https://user-images.githubusercontent.com/5352226/147899582-a56e6029-57e3-4458-b0db-d9b83a47028f.png)
+In het geval van tv-programma's kun je eenvoudig de specifieke seizoenen selecteren die je wilt aanvragen.
 
-In the case of television shows - you can simply select the specific seasons you wish to request.
+*Let op: 'BestPractice1080p' (de standaardoptie) geeft waarschijnlijk de meeste resultaten - maar wees niet bang om 'BestPractice720/1080p' aan te vragen als een film niet gedownload wordt.*
 
-*Note - 'HD - 720p/1080p' is most likely to yield results - but don't be afraid to request 'HD-1080p' (the default option).*
+Op dit moment worden alle verzoeken -behalve series- automatisch goedgekeurd. Overseerr geeft aan wanneer je aanvraag is voltooid.
 
-At present all requests will be manually reviewed by myself - and I will ensure the highest quality file(s) are downloaded. Overseerr will indicate when your request has been completed -
+![afbeelding](https://user-images.githubusercontent.com/5352226/147899764-5abbf16e-1e97-4ca6-9ec8-5c5dd55cb910.png)
 
-![image](https://user-images.githubusercontent.com/5352226/147899764-5abbf16e-1e97-4ca6-9ec8-5c5dd55cb910.png)
+Overseerr biedt ook een manier om de content te bekijken die al op de mediaserver staat - en stelt je in staat om problemen te melden als je playbackproblemen ondervindt.
 
-Overseerr also provides a way to view content already held on the media server - and also allows you to raise issues should you have any playback issues -
+![afbeelding](https://user-images.githubusercontent.com/5352226/147899833-232b5533-bab0-4567-b90f-166a42fef8d3.png)
 
-![image](https://user-images.githubusercontent.com/5352226/147899833-232b5533-bab0-4567-b90f-166a42fef8d3.png)
-
-This allows you to inform me of any problem with the video files - and fix/update accordingly.
+Dit stelt je in staat mij op de hoogte te stellen van eventuele problemen met de videobestanden - zodat ik deze kan herstellen/bijwerken.
 
 ### Server Snapshot
 
 03/01/2021
 
-Speedtest -
+Snelheidstest -
 
-![image](https://user-images.githubusercontent.com/5352226/147900566-024ac5d6-dfef-4c65-a327-5f376002aa0b.png)
+![afbeelding](https://user-images.githubusercontent.com/5352226/147900566-024ac5d6-dfef-4c65-a327-5f376002aa0b.png)
 
-#### Media Count
-Movies - **607**
+#### Media Telling
+Films - **607**
 
-TV Shows - **29** (*1958 episodes*)
+TV-programma's - **29** (*1958 afleveringen*)
 
-Sample of 4K movies -
+Voorbeeld van 4K-films -
 
-![image](https://user-images.githubusercontent.com/5352226/147900670-79259680-ac6e-4906-b450-8f0501967d3a.png)
+![afbeelding](https://user-images.githubusercontent.com/5352226/147900670-79259680-ac6e-4906-b450-8f0501967d3a.png)
 
-### Ensuring the best quality for playback 
+### Zorgen voor de beste kwaliteit bij afspelen
 
-By default - the Plex player will limit the quality of videos streamed to 720p. The vast majority of content is available in 1080p or better - so be sure to update the relevant settings -
+Standaard beperkt de Plex-speler de kwaliteit van video's die worden gestreamd tot 720p. Het overgrote deel van de content is beschikbaar in 1080p of beter - zorg er dus voor dat je de relevante instellingen bijwerkt.
 
-#### On TV
+#### Op TV
 
-Go to the left hand menu > down to settings > video quality and change ‘internet streaming’ to ‘maximum’.
+Ga naar het menu aan de linkerkant > naar beneden naar instellingen > videokwaliteit en verander 'internet streamen' naar 'maximum'.
 
 #### In Browser
 
-Click the spanner icon at the top right to go to the settings page. From the left hand menu find the section titled 'Plex Web' and select 'Quality'. From here change the internet streaming video quality to 'maximum'. 
+Klik op het moersleutelpictogram rechtsboven om naar de instellingenpagina te gaan. Zoek in het linkermenu naar het gedeelte getiteld 'Plex Web' en selecteer 'Kwaliteit'. Verander hier de internet streamende videokwaliteit naar 'maximum'.
 
-### Known Issues
+### Bekende Problemen
 
-In some instances, a username/password popup may appear. This can simply be dismissed/canceled.
+In sommige gevallen kan er een pop-up verschijnen waarin om een gebruikersnaam/wachtwoord wordt gevraagd. Dit kan eenvoudig worden weggeklikt/geannuleerd.
 
-### Further Questions
+### Verdere Vragen
 
-If you have any further questions - please just get in touch.
+Als je nog verdere vragen hebt, neem dan gerust contact met me op.
 
 Luc
 
-Thanks to Richard for this tutorial page:
+Dank aan Richard voor deze tutorialpagina:
 Richard Crosby - [richardcrosby.co.uk](https://richardcrosby.co.uk/)
