@@ -6,8 +6,7 @@ Important links -
 
 - **Plex Signup** - [https://www.plex.tv/en-gb/sign-up/](https://www.plex.tv/en-gb/sign-up/)
 - **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
-- **Overseerr** - [https://crozuk.capella.usbx.me/overseerr](https://crozuk.capella.usbx.me/overseerr)
-- **Discord Server** - [Invite Link](https://discord.gg/ZdTgsmdqGD)
+- **Overseerr** - [https://lucflix.nl](https://lucflix.nl)
 
 **Make sure you watch at the best quality possible - check the instructions below for more details.**
 
@@ -29,7 +28,7 @@ You can watch media via a Plex player pretty much anywhere you have an internet 
 
 ![image](https://user-images.githubusercontent.com/5352226/147898871-8539cb51-abd2-4b78-9c7e-b4cf4299337f.png)
 
-All movies and TV come with English subtitles where possible -
+All movies and TV come with Dutch and/or English subtitles where possible -
 
 ![image](https://user-images.githubusercontent.com/5352226/147903261-6d72d1fd-449e-4baf-8773-10c8741abe30.png)
 
@@ -42,7 +41,7 @@ Plex has support for a wide range of platforms - from laptops, desktops, and pho
 
 Whilst I'm a big fan of my TV/Movie collection - you may find it's missing certain films or TV shows that you'd like to watch. I've implemented [Overseerr](https://overseerr.dev/) to allow anyone with access to my Plex media server to request any film or TV show they like.
 
-To access Overseerr visit [https://crozuk.capella.usbx.me/overseerr](https://crozuk.capella.usbx.me/overseerr) - where you will be able to login using your Plex account.
+To access Overseerr visit [https://lucflix.nl](https://lucflix.nl) - where you will be able to login using your Plex account.
 
 ![image](https://user-images.githubusercontent.com/5352226/147899473-ff8c231a-6400-4c66-89c3-835a822febd5.png)
 
@@ -68,18 +67,6 @@ Overseerr also provides a way to view content already held on the media server -
 
 This allows you to inform me of any problem with the video files - and fix/update accordingly.
 
-### Discord Server
-
-**Discord Server** - [Invite Link](https://discord.gg/ZdTgsmdqGD)
-
-For update to date information and notifications - you can join my Discord server to receive updates -
-
-<img width="1310" alt="image" src="https://user-images.githubusercontent.com/5352226/151474952-e1e686b7-54b1-40ad-b538-8dbd017328c7.png">
-
-You can also request content direct from Discord using the 'Requestrr' bot. Type `/help` in the 'general' channel for details on how to request content.
-
-<img width="745" alt="image" src="https://user-images.githubusercontent.com/5352226/151475231-1fcbd123-1b37-4e7e-807c-f1331ff32d7b.png">
-
 ### Server Snapshot
 
 03/01/2021
@@ -89,9 +76,9 @@ Speedtest -
 ![image](https://user-images.githubusercontent.com/5352226/147900566-024ac5d6-dfef-4c65-a327-5f376002aa0b.png)
 
 #### Media Count
-Movies - **497**
+Movies - **607**
 
-TV Shows - **46** (*2089 episodes*)
+TV Shows - **29** (*1958 episodes*)
 
 Sample of 4K movies -
 
@@ -117,4 +104,7 @@ In some instances, a username/password popup may appear. This can simply be dism
 
 If you have any further questions - please just get in touch.
 
+Luc
+
+Thanks to Richard for this tutorial page:
 Richard Crosby - [richardcrosby.co.uk](https://richardcrosby.co.uk/)
